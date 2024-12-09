@@ -1,1 +1,1 @@
-# coreJava2
+This is a basic core java project
